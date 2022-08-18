@@ -16,3 +16,6 @@ same type.
 
 DFA:
 
+![image](https://user-images.githubusercontent.com/108059932/185292053-46c6afae-1ce3-4edf-8056-91aa5644f99b.png)
+
+strings accepted: aabb,bbababababaa,bbabababb,...
